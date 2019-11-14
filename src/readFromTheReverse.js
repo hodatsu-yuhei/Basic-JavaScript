@@ -10,8 +10,19 @@
 // programming
 // 出力例2
 // gnimmargorp
+/*var array = "paiza";
+console.log(
+  array
+    .split("")
+    .reverse()
+    .join("")
+);
+*/
 
-<script>
-  'use strict' var array = 'paiza'
-  console.log(array.split('').reverse().join(''));
-</script>;
+//console.log("Hello World");
+
+function reverse(word) {
+  return word;
+}
+
+console.log(reverse("paiza"));
