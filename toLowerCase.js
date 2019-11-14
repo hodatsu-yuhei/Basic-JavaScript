@@ -9,3 +9,7 @@
 // abcdefghijklmnopqrstuvwxyz
 // 出力例2
 // ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+<script>
+  'use strict' var str = "paiza" str = str.toUpperCase(); console.log(str);
+</script>;
