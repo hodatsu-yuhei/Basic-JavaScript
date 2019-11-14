@@ -10,3 +10,8 @@
 // programming
 // 出力例2
 // gnimmargorp
+
+<script>
+  'use strict' var array = 'paiza'
+  console.log(array.split('').reverse().join(''));
+</script>;
